@@ -1,6 +1,6 @@
+[link-wordpress-API]: https://codex.wordpress.org/WordPress_APIs
+[link-wordpress-API-best-practises]: https://make.wordpress.org/core/handbook/best-practices/core-apis
 ## Summary
-- started the creation of a very simple plugin, ironically called simple-example-plugin
-  - so far, this plugin does nothing, as there is no code written to initiate functionality
-  - however, i have a solid understanding of the plugin folder structure, albeit that ours is very simple
-- learnt the differences between regular plugins and must use plugins
-- went through some conventions of choosing plugin names
+- brief exploration about [WordPress APIs][link-wordpress-API]
+- for guidance on best practises on using WordPress' Core APIs, consult this [link][link-wordpress-API-best-practises]
+- i did not write any code in this commit
