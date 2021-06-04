@@ -1,6 +1,5 @@
-[link-wordpress-API]: https://codex.wordpress.org/WordPress_APIs
-[link-wordpress-API-best-practises]: https://make.wordpress.org/core/handbook/best-practices/core-apis
 ## Summary
-- brief exploration about [WordPress APIs][link-wordpress-API]
-- for guidance on best practises on using WordPress' Core APIs, consult this [link][link-wordpress-API-best-practises]
-- i did not write any code in this commit
+- wrote code for action hooks and filter hooks
+- wp_mail() ? interesting
+- that being said, i can't see the code's functionality in action (no pun intended)
+- i will just keep going regardless
