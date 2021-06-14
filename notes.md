@@ -1,11 +1,6 @@
-[register-activation-hook-link]: https://developer.wordpress.org/reference/functions/register_activation_hook/
-[register-deactivation-hook-link]: https://developer.wordpress.org/reference/functions/register_deactivation_hook/
-[current-user-can-function-link]: https://developer.wordpress.org/reference/functions/current_user_can/
-
+[pluggable-functions-link]: https://codex.wordpress.org/Pluggable_Functions
 ## Summary
-- added a new plugin that serves the purpose of teaching me further on different states of a plugin
-- went through some very important hooks
-  - [register_activation_hook()][register-activation-hook-link]
-  - [register_deactivation_hook()][register-deactivation-hook-link]
-- also learnt about the [current_user_can()][current-user-can-function-link]
-- we cannot see any results of the code we have written, but it works. i verified it multiple times and i can always come back and test it with commented-out ```wp_die()```.
+- i know understand **even more** the differences between hooks (action & filters) and [pluggable functions][pluggable-functions-link]
+- pluggable functions work the same way here, as they do in themes
+- the pluggable function i used, as well as the list for all of them can be found [here](../wp-includes/pluggable.php)
+- not much more to add.
