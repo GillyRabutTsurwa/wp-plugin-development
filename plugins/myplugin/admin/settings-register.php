@@ -16,7 +16,7 @@ function myplugin_register_settings() {
 
     add_settings_section(
         "myplugin_section_admin",
-        "Customise Admin Area",
+        "Customise Admin Area", 
         "myplugin_callback_section_admin",
         "myplugin"
     );
